@@ -1,7 +1,8 @@
-{
+[
+      {
       "Brugernavn": "Mathias",
-      "Password": "testpassword",
-      "Token": "token"
-}
+      "Password": "testpassword"
+      }
+]
 
 
