@@ -1,10 +1,17 @@
 {
-      "logins:"[
-      {
-      "Brugernavn": "Mathias",
-      "Password": "testpassword"
-      }
-      ]
+  "logins": [
+    {
+      "navn": "mathias",
+      "password": "testpass"
+    },
+    {
+      "navn": "mads",
+      "password": "ørken"
+    },
+    {
+      "navn": "dres",
+      "password": "dreden"
+    }
+  ]
 }
-
 
