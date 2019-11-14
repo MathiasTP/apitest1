@@ -1,8 +1,10 @@
-[
+{
+      "logins:"[
       {
       "Brugernavn": "Mathias",
       "Password": "testpassword"
       }
-]
+      ]
+}
 
 
